@@ -11,3 +11,6 @@
 ## School of Science
 
 #### Applied Mathematics
+
+## International Business school in suzhou
+#### Information management and Information System
